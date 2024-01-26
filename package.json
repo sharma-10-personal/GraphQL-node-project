@@ -1,0 +1,11 @@
+{
+  "name": "graphql-node-project",
+  "version": "1.0.0",
+  "description": "This is project which would give a basic understanding on Graph QL APIs and it's use cases",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sharma S S",
+  "license": "ISC"
+}
